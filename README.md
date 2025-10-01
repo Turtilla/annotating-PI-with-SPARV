@@ -6,4 +6,6 @@ This repository includes the code necessary to convert SPARV XML outputs to JSON
 ### Related repositories:
  :bulb: [Sparv-plugin](https://github.com/spraakbanken/sparv-sbx-pi-detection)  
 
- :bulb: [(Im)Personal Data visualization tool](https://github.com/daalft/impersonaldata)
+ :bulb: [(Im)Personal Data visualization tool](https://github.com/daalft/impersonaldata)  
+
+ :bulb: [Article to appear in the proceedings of the LM4DH workshop](./4_Paper.pdf)
