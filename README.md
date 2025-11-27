@@ -8,4 +8,4 @@ This repository includes the code necessary to convert SPARV XML outputs to JSON
 
  :bulb: [(Im)Personal Data visualization tool](https://github.com/daalft/impersonaldata)  
 
- :bulb: [Article to appear in the proceedings of the LM4DH workshop](./4_Paper.pdf)
+ :bulb: [Article in the proceedings of the LM4DH workshop](https://acl-bg.org/proceedings/2025/LM4DH%202025/pdf/2025.lm4dh-1.15.pdf)
